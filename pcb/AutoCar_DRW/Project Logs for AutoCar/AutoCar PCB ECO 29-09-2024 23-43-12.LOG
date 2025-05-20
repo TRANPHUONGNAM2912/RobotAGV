@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=3V3 Pin=C3-1
-Removed Pin From Net: NetName=GND Pin=C3-2
-Removed Pin From Net: NetName=GND Pin=IC1-1
-Removed Pin From Net: NetName=3V3 Pin=IC1-2
-Removed Pin From Net: NetName=VCC Pin=IC1-3
-Removed Member From Class: ClassName=AutoCar Member=C3
-Removed Member From Class: ClassName=AutoCar Member=IC1
-Added Pin To Net: NetName=3V3 Pin=MD1-1
