@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=GND Pin=2-2
+Removed Pin From Net: NetName=3V3 Pin=AS1-1
+Removed Pin From Net: NetName=GND Pin=AS1-2
+Removed Pin From Net: NetName=Bt_Fan Pin=BT_Fan1-1
+Removed Pin From Net: NetName=GND Pin=BT_Fan1-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VCC Pin=C4-2
+Removed Pin From Net: NetName=VCC Pin=DHT1-1
+Removed Pin From Net: NetName=GND Pin=DHT1-2
+Removed Pin From Net: NetName=DHT11 Pin=DHT1-3
+Removed Pin From Net: NetName=VCC Pin=Gas_SS1-1
+Removed Pin From Net: NetName=GND Pin=Gas_SS1-2
+Removed Pin From Net: NetName=In1 Pin=IC2-5
+Removed Pin From Net: NetName=In2 Pin=IC2-7
+Removed Pin From Net: NetName=In3 Pin=IC2-10
+Removed Pin From Net: NetName=In4 Pin=IC2-12
+Removed Pin From Net: NetName=ADC1 Pin=MD1-18
+Removed Pin From Net: NetName=Fan Pin=MD1-21
+Removed Pin From Net: NetName=BT_led1 Pin=MD1-22
+Removed Pin From Net: NetName=Bt_led2 Pin=MD1-23
+Removed Pin From Net: NetName=Bt_Spare_out1 Pin=MD1-24
+Removed Pin From Net: NetName=Bt_Spare_out2 Pin=MD1-25
+Removed Pin From Net: NetName=Bt_Fan Pin=MD1-26
+Removed Pin From Net: NetName=GND Pin=SW6-1
+Removed Pin From Net: NetName=Bt_Fan Pin=SW6-2
+Removed Pin From Net: NetName=GND Pin=SW6-3
+Removed Pin From Net: NetName=Bt_Fan Pin=SW6-4
+Removed Member From Class: ClassName=AutoCar Member=1
+Removed Member From Class: ClassName=AutoCar Member=2
+Removed Member From Class: ClassName=AutoCar Member=AS1
+Removed Member From Class: ClassName=AutoCar Member=BT_Fan1
+Removed Member From Class: ClassName=AutoCar Member=C4
+Removed Member From Class: ClassName=AutoCar Member=DHT1
+Removed Member From Class: ClassName=AutoCar Member=Gas_SS1
+Removed Member From Class: ClassName=AutoCar Member=SW6
+Change Component Comment : Designator=F1 Old Comment=F3A New Comment=F2A
+Change Component Designator: OldDesignator=BT_Led1 NewDesignator=Set
+Change Component Designator: OldDesignator=BT_Led2 NewDesignator=Next
+Change Component Designator: OldDesignator=BT_Spare_out1 NewDesignator=Up
+Change Component Designator: OldDesignator=BT_spare_out2 NewDesignator=Down
+Change Component Designator: OldDesignator=SW2 NewDesignator=Set_BT
+Change Component Designator: OldDesignator=SW3 NewDesignator=Next_BT
+Change Component Designator: OldDesignator=SW4 NewDesignator=Up_BT
+Change Component Designator: OldDesignator=SW5 NewDesignator=Down_BT
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "74HC02 DIP14"; VariantName = "[No Variations]"
+Added Component: Designator=74HC125(dip14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "74HC02 DIP14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=?(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08055C182KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1374-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104 / 0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "08055C182KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-1374-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104 / 0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=74HC125-1
+Added Pin To Net: NetName=In1 Pin=74HC125-2
+Added Pin To Net: NetName=Fan Pin=74HC125-3
+Added Pin To Net: NetName=GND Pin=74HC125-4
+Added Pin To Net: NetName=In2 Pin=74HC125-5
+Added Pin To Net: NetName=DHT11 Pin=74HC125-6
+Added Pin To Net: NetName=GND Pin=74HC125-7
+Added Pin To Net: NetName=Bt_Fan Pin=74HC125-8
+Added Pin To Net: NetName=In3 Pin=74HC125-9
+Added Pin To Net: NetName=GND Pin=74HC125-10
+Added Pin To Net: NetName=ADC1 Pin=74HC125-11
+Added Pin To Net: NetName=In4 Pin=74HC125-12
+Added Pin To Net: NetName=GND Pin=74HC125-13
+Added Pin To Net: NetName=VCC Pin=74HC125-14
+Added Pin To Net: NetName=GND Pin=?-1
+Added Pin To Net: NetName=VCC Pin=?-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=Fan Pin=IC2-5
+Added Pin To Net: NetName=DHT11 Pin=IC2-7
+Added Pin To Net: NetName=Bt_Fan Pin=IC2-10
+Added Pin To Net: NetName=ADC1 Pin=IC2-12
+Added Pin To Net: NetName=Enco_B_L Pin=MD1-18
+Added Pin To Net: NetName=Enco_B_R Pin=MD1-20
+Added Pin To Net: NetName=Enco_A_L Pin=MD1-22
+Added Pin To Net: NetName=BT_led1 Pin=MD1-23
+Added Pin To Net: NetName=Bt_led2 Pin=MD1-24
+Added Pin To Net: NetName=Enco_A_R Pin=MD1-25
+Added Pin To Net: NetName=Bt_Spare_out1 Pin=MD1-26
+Added Pin To Net: NetName=Bt_Spare_out2 Pin=MD1-27
+Change Net Name : Old Net Name=ADC1 New Net Name=In4_5V
+Change Net Name : Old Net Name=Bt_Fan New Net Name=In3_5V
+Change Net Name : Old Net Name=BT_led1 New Net Name=Set_BT
+Change Net Name : Old Net Name=Bt_led2 New Net Name=Next_BT
+Change Net Name : Old Net Name=Bt_Spare_out1 New Net Name=Up_BT
+Change Net Name : Old Net Name=Bt_Spare_out2 New Net Name=Down_BT
+Change Net Name : Old Net Name=DHT11 New Net Name=In2_5V
+Change Net Name : Old Net Name=Fan New Net Name=In1_5V
+Added Member To Class: ClassName=AutoCar Member=Component 74HC125 74HC02 DIP14
+Added Member To Class: ClassName=AutoCar Member=Component ? Capacitor Ceramic
+Added Member To Class: ClassName=AutoCar Member=Component C? approved sub OK

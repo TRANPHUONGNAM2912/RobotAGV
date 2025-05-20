@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetCong tac1_1 Pin=Cong tac1-1
+Removed Pin From Net: NetName=NetCong tac1_2 Pin=Cong tac1-2
+Removed Pin From Net: NetName=NetCong tac1_2 Pin=F1-1
+Removed Pin From Net: NetName=NetCong tac1_2 Pin=F1-1
+Removed Pin From Net: NetName=NetCong tac1_1 Pin=JDC1-1
+Removed Pin From Net: NetName=NetCong tac1_1 Pin=P1-1
+Removed Member From Class: ClassName=AutoCar Member=Cong tac1
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(KCD01-11)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCong tac1_1 Pin=F1-1
+Added Pin To Net: NetName=NetCong tac1_1 Pin=F1-1
+Added Pin To Net: NetName=NetCong tac1_2 Pin=JDC1-1
+Added Pin To Net: NetName=NetCong tac1_2 Pin=P1-1
+Added Pin To Net: NetName=NetCong tac1_2 Pin=SW1-1
+Added Pin To Net: NetName=NetCong tac1_1 Pin=SW1-2
+Change Net Name : Old Net Name=NetCong tac1_1 New Net Name=NetF1_1
+Change Net Name : Old Net Name=NetCong tac1_2 New Net Name=NetJDC1_1
+Added Member To Class: ClassName=AutoCar Member=Component SW1 KCD01-11_SWITCH
