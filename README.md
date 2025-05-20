@@ -2,7 +2,7 @@
 
 Một triển khai mô-đun và hướng đối tượng của robot AGV (Automated Guided Vehicle) sử dụng ESP32.
 
-![RobotAGV](docs/images/robot.jpg)
+![RobotAGV](docs/images/robot.png)
 
 ## Tổng Quan Dự Án
 
@@ -126,14 +126,3 @@ Robot có thể ghi lại quỹ đạo khi bạn điều khiển thủ công, sa
 4. Kết nối board ESP32
 5. Tải sketch lên board
 
-## Giấy Phép
-
-Dự án này là mã nguồn mở và có sẵn dưới Giấy phép MIT.
-
-## Người Đóng Góp
-
-- [Tên của bạn](https://github.com/tên-người-dùng-của-bạn)
-
-## Lời Cảm Ơn
-
-- Cảm ơn đặc biệt đến [đề cập bất kỳ người đóng góp hoặc nguồn tài nguyên đã giúp đỡ]
